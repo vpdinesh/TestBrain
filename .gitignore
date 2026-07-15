@@ -1,0 +1,25 @@
+# Virtual environment
+rag_env/
+venv/
+.venv/
+
+# Vector database (generated locally)
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment files (if any)
+.env
