@@ -72,7 +72,7 @@ Instead of manually searching through test reports, logs, and documentation:
 
 ### Prerequisites
 - Python 3.9+
-- [Ollama](https://ollama.com/download) installed
+- [Ollama](https://ollama.com/download))) installed
 
 ### Setup (one-time, ~3 minutes)
 
