@@ -241,6 +241,14 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
+### Related Project
+
+👉 TestBrain
+
+RAG-powered Test Intelligence Assistant.
+
+https://github.com/vpdinesh/TestBrain
+
 ## Author
 
 **Dinesh V P** — Senior Automation Engineer  
